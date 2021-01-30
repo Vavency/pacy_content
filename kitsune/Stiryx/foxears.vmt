@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/vocaloid/stiryx_rework/ears"
+	"$nodecal" 1
+	"$phong" "1"
+	"$phongboost"	"2"
+	"$phongexponent" "5"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[0 .1 5]"
+	"$lightwarptexture" "models/dewobedil/vocaloid/stiryx_rework/toon_gen2"
+}

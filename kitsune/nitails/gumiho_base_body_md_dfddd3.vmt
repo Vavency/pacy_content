@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models/debug/debugwhite"
+	"$halflambert"	"1"
+}
